@@ -1,5 +1,5 @@
 # YT Downloader
-Baixe suas músicas do youtube em MP3 (com metadados) com facilidade.
+Baixe suas músicas do youtube em MP3 com facilidade.
 
 ## Como instalar 🚀
 1. Instale o pytube
