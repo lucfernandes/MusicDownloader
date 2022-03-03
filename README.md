@@ -10,6 +10,10 @@ pip install pytube3
 ```python
 pip install mutagen
 ```
+3. Instale o moviepy
+```python
+pip install moviepy
+```
 
 ## Como usar 🔥
 1. Primeiramente adicione as urls (separadas uma em cada linha) dos seus vídeos no arquivo "YT_URL_List.txt";
@@ -17,10 +21,10 @@ pip install mutagen
 ```python
 py index.py
 ```
-3. Pegue seus arquivos já convertidos em MP3 na pasta "musicas".
+3. Aguarde o processamento de todos arquivos finalizarem.
+4. Pegue seus arquivos já convertidos em MP3 na pasta "musicas".
 
 ## Planejamento Futuro 📈
-- Criar metadados nos arquivos que não possuem
 - Poder baixar em outros formatos
 - Interface gráfica
 
